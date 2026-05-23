@@ -20,8 +20,8 @@
 - 🔭 Currently working as a **Data Analyst Trainee** at Softtronix Software Services, Nagpur
 - 🌱 Leveling up into **Data Science** — ML, NLP, and predictive modeling
 - 🏗️ Building: **AI Agent Performance Analytics** & Stock Market Analysis System
-- 🎓 B.Tech in CSE from SIST Bhopal (CGPA: 7.77)
-- 💬 Ask me about **SQL, Power BI, Python, EDA**, or breaking into Data Science
+- 🎓 B.Tech in CSE from SisTech-E Bhopal
+- 💬 Ask me about **SQL, Power BI, Python, EDA, Data Visualisation, Dashboard Creation**, or breaking into Data Science
 - 📫 Reach me at **aanandbakode807@gmail.com**
 
 ---
